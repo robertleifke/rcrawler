@@ -1,5 +1,6 @@
-# artemis-template
-An idiomatic template for Artemis MEV bots.
+# DFMM Artemis Bot 
+
+DFMM arbitrage strategy using Artemis framework.
 
 Run 
 ```bash
