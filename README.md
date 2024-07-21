@@ -1,6 +1,6 @@
-# DFMM Artemis Bot 
+# rCrawler
 
-DFMM arbitrage strategy using Artemis framework.
+Numo arbitrage strategy using Artemis framework.
 
 Run 
 ```bash
